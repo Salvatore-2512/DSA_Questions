@@ -3,7 +3,7 @@ public:
     void setZeroes(vector<vector<int>>& matrix) {
 
         
-        int matrix2[1000][1000];
+        int matrix2[200][200];
 
         for(int i= 0; i<matrix.size(); i++)
         {
